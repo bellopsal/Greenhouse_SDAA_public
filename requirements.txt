@@ -1,0 +1,9 @@
+telebot
+schedule
+loguru
+openmeteo_requests
+requests_cache
+pandas
+retry_requests
+opencv-python
+picamera2
